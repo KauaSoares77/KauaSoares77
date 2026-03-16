@@ -1,4 +1,4 @@
-## Hi there 👋
+👋 Olá! Sou Kauã, estudante de Desenvolvimento de Sistemas (EAD) na ETEC Getúlio Vargas. Atualmente aprendendo Python e pretendo começar em HTML. Tenho grande interesse em desenvolvimento Front-End e estou construindo meus projetos e conhecimentos passo a passo na programação.
 
 <!--
 **KauaSoares77/KauaSoares77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
